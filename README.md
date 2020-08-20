@@ -1,5 +1,7 @@
 # skillfactory-module6
 module 6
+
+
 baseline_keras_xception_car_class_v2_4.ipynb - версия  с использованием  transfer learning с fine-tuning
 
 baseline_keras_xception_car_class_v2_0.ipynb - версия  с использованием с техники управления Learning Rate. Подгрузка модуля CLR c https://github.com/bckenstler/CLR
