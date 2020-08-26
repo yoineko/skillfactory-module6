@@ -1,7 +1,7 @@
 # skillfactory-module6
 module 6
 
-Common - версия содержит в себе EDA, загрузку уже обученной ранее модели, проверку предсказаний. 
+Common - версия содержит в себе EDA, загрузку уже обученной ранее модели, проверку предсказаний, визуализация входных и выходных данных
 
 fite-tuning-keras-effect-car-class-v2-6.ipynb  - версия  с использованием  transfer learning с fine-tuning base_model = EfficientNetB0
 
