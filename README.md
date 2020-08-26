@@ -3,7 +3,7 @@ module 6
 
 Common - версия содержит в себе EDA, загрузку уже обученной ранее модели, проверку предсказаний, визуализацию входных и выходных данных
 
-fite-tuning-keras-effect-car-class-v2-6.ipynb  - версия  с использованием  transfer learning с fine-tuning base_model = EfficientNetB0
+fite-tuning-EfficientNetB0.ipynb  - версия  с использованием  transfer learning с fine-tuning base_model = EfficientNetB0
 
 baseline_keras_xception_car_class_v2_4.ipynb - версия  с использованием  transfer learning с fine-tuning
 
