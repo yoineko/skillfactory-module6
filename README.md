@@ -1,11 +1,11 @@
 # skillfactory-module6
 module 6
 
-Common - версия содержит в себе EDA, загрузку уже обученной ранее модели, проверку предсказаний, визуализацию входных и выходных данных
+Common - версия содержит в себе EDA, загрузку уже обученной ранее модели, проверку предсказаний, визуализацию входных и выходных данных( лучший результат)
 
 fite-tuning-EfficientNetB0.ipynb  - версия  с использованием  transfer learning с fine-tuning base_model = EfficientNetB0
 
-fine-tuning-EfficientNetB7.ipynb  - версия  с использованием  transfer learning с fine-tuning base_model = EfficientNetB7( лучший результат)
+fine-tuning-EfficientNetB7.ipynb  - версия  с использованием  transfer learning с fine-tuning base_model = EfficientNetB7
 
 baseline_keras_xception_car_class_v2_4.ipynb - версия  с использованием  transfer learning с fine-tuning
 
