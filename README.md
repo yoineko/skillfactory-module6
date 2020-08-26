@@ -1,6 +1,8 @@
 # skillfactory-module6
 module 6
 
+Common - версия содержит в себе EDA, загрузку уже обученной ранее модели, проверку предсказаний. 
+
 fite-tuning-keras-effect-car-class-v2-6.ipynb  - версия  с использованием  transfer learning с fine-tuning base_model = EfficientNetB0
 
 baseline_keras_xception_car_class_v2_4.ipynb - версия  с использованием  transfer learning с fine-tuning
