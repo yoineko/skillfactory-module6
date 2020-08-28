@@ -11,8 +11,3 @@ fine-tuning-xception.ipynb.ipynb - версия  с использованием
 
 Learning Rate.ipynb - версия  с использованием с техники управления Learning Rate. Подгрузка модуля CLR c https://github.com/bckenstler/CLR
 
-baseline-keras-xception-car-class-v2-rsop  - версия с использованием optimizers.RMSprop
-
-baseline-keras-xception-car-class-v2-svd.ipynb - версия с использованием optimizer=optimizers.SGD(lr=LR, momentum=0.9)
-
-baseline-keras-xception-car-class-v2-1.ipynb с использованием base_model = EfficientNetB7
